@@ -1,6 +1,6 @@
 ---
-title: "Welcome to My Website"
-description: "This is the homepage of my personal website"
+title: "Mohtasim Hafiz"
+description: "Personal Website"
 ---
 
 
