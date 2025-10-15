@@ -1,0 +1,96 @@
+/* Academic/professional typography */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@400;600;700&display=swap');
+
+:root {
+  --font-body: 'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  --font-headings: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+}
+
+html,
+body {
+  font-family: var(--font-body);
+  background-color: rgba(var(--color-neutral), 1); /* use creamy base in light mode */
+}
+
+/* Force light (off-white) style even if a dark attribute slips in */
+html,
+html[data-theme="light"],
+html:not([data-theme]),
+html[data-theme="dark"] {
+  color-scheme: light;
+}
+
+html body,
+html[data-theme="light"] body,
+html:not([data-theme]) body,
+html[data-theme="dark"] body {
+  color: rgba(var(--color-neutral-900), 0.95);
+}
+
+html h1,
+html h2,
+html h3,
+html h4,
+html h5,
+html h6,
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: rgba(var(--color-neutral-900), 1);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-headings);
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+/* Slightly increase line-height for readability */
+article, .content, p, li {
+  line-height: 1.7;
+}
+
+/* Optional: make links feel a bit more lively with subtle underline */
+a {
+  text-underline-offset: 3px;
+}
+
+/* Link colors tuned to vibrant blue palette */
+a,
+.prose a,
+article a {
+  color: #A35E44;
+}
+
+a:hover,
+.prose a:hover,
+article a:hover {
+  color: #A35E44;
+  text-decoration: underline;
+}
+
+/* Slight upward nudge for homepage profile content */
+main > article.flex.flex-col.items-center.justify-center.text-center {
+  margin-top: -8px;
+}
+
+@media (min-width: 768px) {
+  main > article.flex.flex-col.items-center.justify-center.text-center {
+    margin-top: -12px;
+  }
+}
+
+/* Center footer copyright at the bottom */
+#site-footer > div.flex.items-center.justify-between {
+  justify-content: center;
+}
+
+#site-footer p {
+  text-align: center;
+  width: 100%;
+}
+
+

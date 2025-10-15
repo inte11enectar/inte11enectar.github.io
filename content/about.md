@@ -1,46 +1,40 @@
 ---
 title: "About Me"
 description: "Learn more about Mohtasim Hafiz"
-date: 2024-01-01
+date: 2025-10-15
 ---
 
-# About Me
 
 Hi there! I'm Mohtasim Hafiz
 
 ## Who I Am
 
-I'm a passionate individual who loves exploring the intersection of technology and human creativity. I believe in continuous learning and sharing knowledge with others.
+Originally from Bangladesh, I’m a freshman at Georgetown University in Qatar, studying International Affairs.
+
+It’s always tricky to answer “where are you from” — I spent my early years in Bangladesh before moving to the UAE, where I lived for nearly 15 years. In 2019, I returned to my roots, and half a decade later, I find myself back in the Gulf, continuing my journey in a region that feels both familiar and new.
 
 ## My Journey
 
-My journey in technology started with curiosity and has evolved into a genuine passion for web development and digital innovation. I enjoy building things that make a difference and solving problems through code.
+Shaped by my parents’ hopes and societal expectations, I pursued the hard sciences throughout high school. Yet, my true curiosity always leaned toward the world of ideas — (geo)politics, economics, religion, and philosophy. In college, I’m grateful to finally explore these passions in depth. Suffice it to say, my future aspirations continue to grow from these very interests.
 
-## What I Do
 
-- **Web Development**: Creating beautiful, functional websites
-- **Learning**: Always exploring new technologies and methodologies
-- **Sharing**: Writing about my experiences and insights
-- **Connecting**: Building meaningful relationships in the tech community
+## My Interests (very broad, for now)
 
-## My Interests
-
-- Technology and Innovation
-- Web Development
-- Human-Computer Interaction
-- Digital Art and Design
-- Continuous Learning
-- Community Building
+- Politics
+- Economics (game theory and its real world applications)
+- Speculative Theology (Ilm al-Kalam)
+- Religion and Reformist Movements
+- Philosophy (Classical and Islamic)
 
 ## Fun Facts
 
-- I believe technology should serve humanity, not the other way around
-- I'm fascinated by the psychology behind user experience
-- I enjoy both the technical and creative aspects of development
-- I'm always up for a good conversation about the future of tech
+- For a very brief period, I wanted to study CS (God saved me)
+- I represented my country in an Int'l Olympiad and won a bronze medal
+- I can identify 50+ rocks and minerals
+- I can type 160+ words per minute! 
+- I know how to flip butterfly knives 
+- I'm the only person to speak English in my family (and my village too!)
 
-## Get in Touch
 
-I love connecting with like-minded people! Feel free to reach out to me at [mohtasimhafiz@protonmail.com](mailto:mohtasimhafiz@protonmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohtasim-hafiz-775ba32a4/).
 
 

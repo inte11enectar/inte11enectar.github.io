@@ -1,0 +1,55 @@
+/* Custom scheme: vibrant blue + creamy light background */
+:root {
+  /* Neutral (light theme) - warm/creamy whites */
+  --color-neutral: 253, 247, 235;  /* creamy base instead of pure white */
+  --color-neutral-50: 255, 252, 244;   /* #fffcec */
+  --color-neutral-100: 253, 247, 235;  /* #fdf7eb */
+  --color-neutral-200: 249, 239, 219;  /* #f9efdb */
+  --color-neutral-300: 240, 225, 197;  /* #f0e1c5 */
+  --color-neutral-400: 222, 201, 168;  /* #dec9a8 */
+  --color-neutral-500: 191, 164, 128;  /* #bfa480 */
+  --color-neutral-600: 156, 126, 93;   /* #9c7e5d */
+  --color-neutral-700: 120, 93, 67;    /* #785d43 */
+  --color-neutral-800: 89, 69, 51;     /* #594533 */
+  --color-neutral-900: 61, 47, 35;     /* #3d2f23 */
+
+  /* Primary (vibrant blue) */
+  --color-primary-50: 235, 245, 255;   /* #ebf5ff */
+  --color-primary-100: 210, 232, 255;  /* #d2e8ff */
+  --color-primary-200: 168, 211, 255;  /* #a8d3ff */
+  --color-primary-300: 120, 184, 255;  /* #78b8ff */
+  --color-primary-400: 72, 153, 255;   /* #4899ff */
+  --color-primary-500: 37, 119, 255;   /* #2577ff */
+  --color-primary-600: 24, 95, 232;    /* #185fe8 */
+  --color-primary-700: 24, 78, 196;    /* #184ec4 */
+  --color-primary-800: 23, 65, 163;    /* #1741a3 */
+  --color-primary-900: 21, 52, 130;    /* #153482 */
+
+  /* Secondary (teal accent) */
+  --color-secondary-50: 235, 253, 252;   /* #ebfdfc */
+  --color-secondary-100: 204, 250, 246;  /* #ccfaf6 */
+  --color-secondary-200: 153, 242, 233;  /* #99f2e9 */
+  --color-secondary-300: 99, 230, 215;   /* #63e6d7 */
+  --color-secondary-400: 45, 210, 195;   /* #2dd2c3 */
+  --color-secondary-500: 13, 181, 170;   /* #0db5aa */
+  --color-secondary-600: 8, 152, 145;    /* #089891 */
+  --color-secondary-700: 7, 124, 119;    /* #077c77 */
+  --color-secondary-800: 6, 98, 95;      /* #06625f */
+  --color-secondary-900: 5, 77, 75;      /* #054d4b */
+}
+
+/* Optional: refine dark theme neutrals slightly cooler for contrast */
+[data-theme="dark"] {
+  --color-neutral-50: 248, 250, 252;
+  --color-neutral-100: 241, 245, 249;
+  --color-neutral-200: 226, 232, 240;
+  --color-neutral-300: 203, 213, 225;
+  --color-neutral-400: 148, 163, 184;
+  --color-neutral-500: 100, 116, 139;
+  --color-neutral-600: 71, 85, 105;
+  --color-neutral-700: 51, 65, 85;
+  --color-neutral-800: 30, 41, 59;
+  --color-neutral-900: 15, 23, 42;
+}
+
+

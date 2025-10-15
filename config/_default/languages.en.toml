@@ -17,7 +17,7 @@ title = "Home"
 [params.author]
 name = "Mohtasim Hafiz"
 email = "mohtasimhafiz@protonmail.com"
-image = "https://media.licdn.com/dms/image/v2/D5603AQHPksNSfeieiQ/profile-displayphoto-scale_400_400/B56ZmZ0.L8IAAg-/0/1759222427320?e=1763596800&v=beta&t=GdlKhoe2Mhb9yFirRojV9qa0QxvyQaLkGP6BlS1rSZI"
+image = ""
 imageQuality = 96
 headline = ""
 bio = "A little bit about you"
@@ -45,7 +45,7 @@ links = [
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-      { linkedin = "https://www.linkedin.com/in/mohtasim-hafiz-775ba32a4/" },
+#      { linkedin = "https://www.linkedin.com/in/mohtasim-hafiz-775ba32a4/" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
