@@ -11,7 +11,7 @@ Hi there! I'm Mohtasim Hafiz
 
 Originally from Sylhet, Bangladesh, I’m a freshman at Georgetown University in Qatar, studying International Affairs.
 
-It’s always tricky to answer “where are you from” — I spent my early years in Bangladesh before moving to the UAE, where I lived for nearly 15 years. In 2019, I returned to my roots, and half a decade later, I find myself back in the Gulf, continuing my journey in a region that feels both familiar and new.
+It’s always tricky to answer “where are you from” — I spent my early years in Bangladesh before moving to the UAE, where I lived for nearly 15 years. In 2019, I returned to my roots, and half a decade later, I find myself back in the Gulf! It's an ambivalent feeling, I must say. 
 
 ## //journey
 

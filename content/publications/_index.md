@@ -5,7 +5,7 @@ description: "My academic and professional publications"
 
 
 
-Welcome to my publications page. Here you'll find my academic papers, research articles, and other professional publications.
+Empty for now, this page will host all my academic publications. 
 
 
 
