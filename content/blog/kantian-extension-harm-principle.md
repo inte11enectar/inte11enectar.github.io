@@ -1,11 +1,13 @@
 ---
-title: "A Kantian Extension of the Harm Principle"
+title: "A Kantian Extension to the Harm Principle"
 description: "A preliminary synthesis of Kant's hypothetical consent and Mill's harm principle, applied to the helmet objection."
 date: 2026-02-14
 draft: false
 author: "Mohtasim Hafiz"
 featured: true
 ---
+
+![Portraits of John Stuart Mill and Immanuel Kant](/images/mill-kant.png)
 
 [I'll update this blog post once I'm done writing a more well-researched, fully-developed idea. This is a preliminary version of the original blog.]
 
