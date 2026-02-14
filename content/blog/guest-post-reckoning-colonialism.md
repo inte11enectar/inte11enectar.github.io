@@ -7,6 +7,10 @@ author: "Mohtasim Hafiz"
 featured: true
 ---
 
+![Nsala of Wala in Congo looks at the severed hand and foot of his five-year old daughter, 1904](/images/nsala-wala-congo-1904.png)
+
+*Wikimedia: Nsala of Wala in Congo looks at the severed hand and foot of his five-year old daughter, 1904.jpg*
+
 *The author of the following post is Sazid Hasan (SFS-Q '29).*
 
 <blockquote style="border-left: 4px solid #333; padding-left: 1.5em; margin: 1.5em 0; font-style: normal;">
