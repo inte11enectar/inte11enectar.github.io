@@ -1,15 +1,15 @@
 ---
 title: "Utilitarianism and other 'isms'"
 description: "A critique of common Utilitarianism for young EAs and rationalists, with an alternative from Stoicism."
-date: 2024-02-11
+date: 2026-02-20
 draft: false
 author: "Mohtasim Hafiz"
 featured: true
 ---
 
-This post was originally written in early 2024 by a friend from Colby, who prefers to stay anonymous. I edited it. Back then, him and I were deeply engaged in [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism) polemics. It was fun to write/edit, albeit not as *as* relevant now, so I thought I'd share it now anyway!
+*[This post was originally written in early 2024 by a friend from Colby, who prefers to stay anonymous. I edited it. Back then, him and I were deeply engaged in [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism) polemics. It was fun to write/edit. Although it is not as relevant now, I thought I'd share it anyway!]*
 
-This essay aims to critique the sort of 'common Utilitarianism' that many of my friends who, like me, have read books such as [*Rationality: From AI to Zombies*](https://www.lesswrong.com/s/rationality) and generally want to do good and become 'more rational'. What I dislike, though, is that when my friends read from a few authors they like, they're prone to adopt more of the authors' worldview than they have critically examined.
+This essay aims to critique the sort of 'common Utilitarianism' that many of my friends who, like me, have read books such as [*Rationality: From AI to Zombies*](https://www.lesswrong.com/s/rationality) and generally want to do good and become 'more rational.' What I dislike, though, is that when my friends read from a few authors they like, they're prone to adopt more of the authors' worldview without having them critically examined.
 
 I enjoyed writing this piece because rather than solely critiquing Utilitarianism, for which there are far better essays, it is specifically tailored to a group of people, providing the most relevant critiques to this group and an alternative.
 
