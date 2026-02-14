@@ -7,7 +7,7 @@ author: "Mohtasim Hafiz"
 featured: true
 ---
 
-*This post was originally written in early 2024. I thought I'd share it now anyway.*
+This post was originally written in early 2024 by a friend from Colby, who prefers to stay anonymous. I edited it. Back then, him and I were deeply engaged in [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism) polemics. It was fun to write/edit, albeit not as *as* relevant now, so I thought I'd share it now anyway!
 
 This essay aims to critique the sort of 'common Utilitarianism' that many of my friends who, like me, have read books such as [*Rationality: From AI to Zombies*](https://www.lesswrong.com/s/rationality) and generally want to do good and become 'more rational'. What I dislike, though, is that when my friends read from a few authors they like, they're prone to adopt more of the authors' worldview than they have critically examined.
 
