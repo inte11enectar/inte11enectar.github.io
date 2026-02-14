@@ -1,14 +1,16 @@
 ---
 title: "Guest Post: Reckoning Colonialism"
 description: "A guest post by Sazid Hasan (SFS-Q '29) on colonialism, identity, and pride."
-date: 2026-02-20
+date: 2026-02-11
 draft: false
 author: "Mohtasim Hafiz"
 featured: true
 ---
 
-![Nsala of Wala in Congo looks at the severed hand and foot of his five-year old daughter, 1904](/images/nsala-wala-congo-1904.png)
-<p style="font-size: 0.8em; margin-top: 0.25em; margin-bottom: 1.5em; color: #666;">Wikimedia: Nsala of Wala in Congo looks at the severed hand and foot of his five-year old daughter, 1904.jpg</p>
+<figure style="margin: 0 0 1.5em 0;">
+<img src="/images/nsala-wala-congo-1904.png" alt="Nsala of Wala in Congo looks at the severed hand and foot of his five-year old daughter, 1904" style="display: block; margin-bottom: 0;" />
+<figcaption style="font-size: 0.8em; margin: 0; padding: 0; line-height: 1.3; color: #666;">Wikimedia: Nsala of Wala in Congo looks at the severed hand and foot of his five-year old daughter, 1904.jpg</figcaption>
+</figure>
 
 *The author of the following post is Sazid Hasan (SFS-Q '29).*
 
