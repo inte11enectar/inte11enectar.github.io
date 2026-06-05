@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publications on Home</title>
-    <link>http://localhost:1313/publications/</link>
-    <description>Recent content in Publications on Home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>mohtasimhafiz@protonmail.com (Mohtasim Hafiz)</managingEditor>
-    <webMaster>mohtasimhafiz@protonmail.com (Mohtasim Hafiz)</webMaster>
-    <copyright>© 2025 Mohtasim Hafiz</copyright>
-    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on Home</title><link>https://mohtasimhafiz.com/publications/</link><description>Recent content in Publications on Home</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mohtasimhafiz@protonmail.com (Mohtasim Hafiz)</managingEditor><webMaster>mohtasimhafiz@protonmail.com (Mohtasim Hafiz)</webMaster><copyright>© 2026 Mohtasim Hafiz</copyright><lastBuildDate>Sat, 06 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mohtasimhafiz.com/publications/index.xml" rel="self" type="application/rss+xml"/><item><title>Educational Experiences of Rohingya Children and Their Cultural Dimensions</title><link>https://mohtasimhafiz.com/publications/educational-experiences-rohingya-children-cultural-dimensions/</link><pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate><author>mohtasimhafiz@protonmail.com (Mohtasim Hafiz)</author><guid>https://mohtasimhafiz.com/publications/educational-experiences-rohingya-children-cultural-dimensions/</guid><description/></item></channel></rss>
